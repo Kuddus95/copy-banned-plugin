@@ -1,0 +1,12 @@
+{
+	"name": "Copy Banned Plugin",
+	"uri": "https://github.com/kuddus95/copy-banned-plugin",
+	"description": "Disable mouse click and stop copying post of q2a",
+	"version": "1.8",
+	"date": "2020-05-18",
+	"author": "Aman", 
+	"source": "ProThoughts & Arjun",
+	"author_uri": "http://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
